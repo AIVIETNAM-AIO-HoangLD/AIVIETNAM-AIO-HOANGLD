@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm [Your Name] 👋</h1>
+  <h1>LY DUC HOANG</h1>
   <p><strong>R&D Engineer | Automotive Engineering ✕ AI & Robotics</strong></p>
   <p>Bridging physical vehicle dynamics with intelligent perception, deep learning, and autonomous control.</p>
 </div>
